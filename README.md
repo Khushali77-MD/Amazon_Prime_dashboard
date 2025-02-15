@@ -60,7 +60,7 @@ The dashboard offers **actionable insights** into:
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](your-image-link-here)  
+![Dashboard Png](https://github.com/Khushali77-MD/Amazon_Prime_dashboard/blob/main/AMAZON_PRIME_DASHBOARD.png)  
 
 ---
 
